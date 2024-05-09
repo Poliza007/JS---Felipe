@@ -1,12 +1,13 @@
-### Bem vindo a minha página Github   (▀̿̿Ĺ̯̿▀̿ ̿) ツ
-Meu nome é Felipe Alves
+# ***Bem vindo a minha página Github***  (▀̿̿Ĺ̯̿▀̿ ̿) ツ
 
-Estou estudando na Alura
+***Meu nome é Felipe Alves***
 
-Estou me desenvolvendo na linguagem JavaScript
+***Estou estudando na Alura***
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+***Estou me desenvolvendo na linguagem JavaScript***
 
-### Você pode entrar em contato comigo 📫
+***Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos***
 
-00001101778155sp@al.educacao.sp.gov.br
+>### ***Você pode entrar em contato comigo*** 📫
+
+>00001101778155sp@al.educacao.sp.gov.br
